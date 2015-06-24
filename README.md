@@ -11,3 +11,4 @@
 <button>按鈕</button>
 <button>按鈕</button>
 <link href='css/bootstrap.css' rel='stylesheet'>
+按照BootStrap的pdf教學檔，一個步驟一個步驟做，然後再加以變化
